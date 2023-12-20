@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    justify-content: center;
+}
+
+.card{
+    width: 750px;
+    color: Black;
+    background-color: antiquewhite;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    display: grid;
+    border: 1px solid black;
+}
+#details{
+    display: grid;
+}
+
+
+
+#title{
+    align-self: center;
+}
+#filmname{
+    align-self: center;
+}
+
+#img{
+  align-self: center;
+}

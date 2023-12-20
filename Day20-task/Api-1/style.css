@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    justify-content: center;
+}
+
+.card{
+    width: 550px;
+    color: brown;
+    background-color: yellow;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#list-1{
+    display: grid;
+}
+
+
+#title{
+ align-self: center;
+
+}
+
+#level{
+    align-self: center;
+}
+
+#img{
+    align-self: center;
+}
